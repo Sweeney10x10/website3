@@ -1,0 +1,311 @@
+* {
+
+    margin:0; padding:0;   
+    font-family: 'Roboto', sans-serif;
+    border-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+    list-style-type: none;
+
+}
+
+body {
+
+    margin: 0 auto;
+    background-color: #000029;
+
+}
+
+a {
+    color: #00BFFF;
+}
+
+h1 {
+    font-size: 100px;
+    color: #89CFF0;
+
+}
+
+h2 {
+    font-size: 60px;
+}
+
+p {
+    line-height:24px;
+    color: #cddeee;
+}
+
+tr {
+    height: 25px;
+}
+
+td {
+    color: #cddeee;
+    vertical-align: top;
+}
+
+li {
+    line-height: 25px;
+}
+
+.logo {
+    color:#00BFFF;
+    border-style: solid;
+    padding:5px;
+    font-weight: bold;
+}
+
+#nav-bar {
+    margin: 0 auto;
+    width: 90%;
+    display: block;
+    margin-top: 30px;
+}
+
+#nav-bar li {
+  display: inline;
+}
+
+.align-l {
+    float:left;
+}
+
+.align-r {
+    float:right;
+    padding-right: 15px;
+}
+
+.gap-large {
+    display: block;
+    height: 200px;
+}
+
+.gap-small {
+    display: block;
+    height: 30px;
+}
+
+.main-div {
+    
+    margin: 0 auto;
+    width:50%;
+    height:auto;
+    display: block;
+    clear: both;
+    position:relative;
+    
+}
+
+.std-btn {
+  background-color: #0096FF;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.td-small {
+    width:160px;
+    color: #89CFF0;
+}
+
+.blue-text {
+    color: #89CFF0;
+}
+
+.built-div-outer {
+    background-color: #003568;
+    width:100%;
+    height: auto;
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+    
+}
+
+.built-div-inner {
+    padding:20px;
+}
+
+
+.tech-list {
+    font-size:13px;
+}
+
+.tech-list li {
+  display: inline;
+  margin-right: 12px;
+  color: #7A8B9C;
+}
+
+/* Custom, iPhone Retina */ 
+@media screen and (min-width: 320px) and (max-width: 480px) { 
+
+
+    h1 {
+        font-size: 45px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    h3 {
+        font-size: 15px;
+    }
+
+    .main-div
+    {
+        width: 90%;
+    }
+
+    .gap-large {
+        height: 100px;
+    }
+    
+    .gap-small {
+        height: 20px;
+    }
+
+    #nav-bar li {
+        font-size:10px;
+    }
+
+    td {
+        font-size:13px;
+    }
+
+    p {
+ 
+        font-size:14px;
+        line-height:20px;
+    }
+
+    li {
+ 
+        font-size:13px;
+    }
+
+    .tech-list {
+        font-size:10px;
+    }
+ 
+        
+}
+
+/* Extra Small Devices, Phones */ 
+@media screen and (min-width: 481px) and (max-width: 768px) {
+
+
+    h1 {
+        font-size: 60px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    .main-div
+    {
+        width: 90%;
+    }
+
+    .gap-large {
+        height: 100px;
+    }
+    
+    .gap-small {
+        height: 20px;
+    }
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+
+
+    h1 {
+        font-size: 80px;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    .main-div
+    {
+        width: 80%;
+    }
+
+    .gap-large {
+        height: 100px;
+    }
+    
+    .gap-small {
+        height: 20px;
+    }
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+
+
+    h1 {
+        font-size: 90px;
+    }
+
+    h2 {
+        font-size: 45px;
+    }
+
+    .main-div
+    {
+        width: 70%;
+    }
+
+    .gap-large {
+        height: 100px;
+    }
+    
+    .gap-small {
+        height: 20px;
+    }
+
+
+
+}
+
+/* Small Devices, Tablets */
+@media screen and (min-width: 1201px) and (max-width: 1700px) {
+
+
+
+    h1 {
+        font-size: 90px;
+    }
+
+    h2 {
+        font-size: 45px;
+    }
+
+    .main-div
+    {
+        width: 60%;
+    }
+
+    .gap-large {
+        height: 100px;
+    }
+    
+    .gap-small {
+        height: 20px;
+    }
+
+
+}
+
