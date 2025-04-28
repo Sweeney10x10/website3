@@ -25,6 +25,11 @@ h1,h2 {
     font-size: 60px;
 }
 
+h4 {
+    font-size: 100px;
+    color: #89CFF0;
+}
+
 p {
     line-height:24px;
     color: #cddeee;
@@ -133,13 +138,7 @@ li {
   color: #7A8B9C;
 }
 
-.text-h1 {
-    font-size: 100px;
-    color: #89CFF0;
-    font-weight:bold;
-    line-height: 120px;
 
-}
 
 /* Custom, iPhone Retina */ 
 @media screen and (min-width: 320px) and (max-width: 480px) { 
@@ -150,6 +149,10 @@ li {
 
     h3 {
         font-size: 15px;
+    }
+
+    h4 {
+        font-size: 45px;
     }
 
     .main-div
@@ -187,10 +190,6 @@ li {
     .tech-list {
         font-size:10px;
     }
-
-    .text-h1 {
-        font-size: 45px;
-    }
  
         
 }
@@ -200,6 +199,10 @@ li {
 
     h1,h2 {
         font-size: 40px;
+    }
+
+    h4 {
+        font-size: 60px;
     }
 
     .main-div
@@ -215,10 +218,6 @@ li {
         height: 20px;
     }
 
-    .text-h1 {
-        font-size: 60px;
-    }
-
 
 }
 
@@ -227,6 +226,10 @@ li {
 
     h1,h2 {
         font-size: 40px;
+    }
+
+    h4 {
+        font-size: 80px;
     }
 
     .main-div
@@ -242,9 +245,7 @@ li {
         height: 20px;
     }
 
-    .text-h1 {
-        font-size: 80px;
-    }
+
 
 
 
@@ -255,6 +256,10 @@ li {
 
     h1,h2 {
         font-size: 45px;
+    }
+
+    h4 {
+        font-size: 90px;
     }
 
     .main-div
@@ -270,9 +275,7 @@ li {
         height: 20px;
     }
 
-    .text-h1 {
-        font-size: 90px;
-    }
+
 
 
 
@@ -283,6 +286,10 @@ li {
 
     h1,h2 {
         font-size: 45px;
+    }
+
+    h4 {
+        font-size: 90px;
     }
 
     .main-div
@@ -296,10 +303,6 @@ li {
     
     .gap-small {
         height: 20px;
-    }
-
-    .text-h1 {
-        font-size: 90px;
     }
 
 
