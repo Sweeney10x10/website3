@@ -20,13 +20,13 @@ a {
     color: #00BFFF;
 }
 
-h1 {
+.text-h1 {
     font-size: 100px;
     color: #89CFF0;
 
 }
 
-h2 {
+h1,h2 {
     font-size: 60px;
 }
 
