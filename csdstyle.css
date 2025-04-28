@@ -136,6 +136,8 @@ li {
 .text-h1 {
     font-size: 100px;
     color: #89CFF0;
+    font-weight: bold;
+    line-height: auto;
 
 }
 
