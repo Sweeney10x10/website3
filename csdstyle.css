@@ -4,7 +4,7 @@
     font-family: 'Roboto', sans-serif;
     border-style: none;
     text-decoration: none;
-    color: #FFFFFF;
+    color: #1A2A4F;
     list-style-type: none;
 
 }
@@ -12,7 +12,7 @@
 body {
 
     margin: 0 auto;
-    background-color: #000029;
+    background-color: #F7F8FA;
 
 }
 
@@ -22,7 +22,7 @@ a {
 
 
 h1,h2 {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 h4 {
@@ -32,7 +32,7 @@ h4 {
 
 p {
     line-height:24px;
-    color: #cddeee;
+    color: #5A6A85;
 }
 
 tr {
@@ -40,7 +40,7 @@ tr {
 }
 
 td {
-    color: #cddeee;
+    color: #5A6A85;
     vertical-align: top;
 }
 
@@ -97,24 +97,28 @@ li {
 }
 
 .std-btn {
-  background-color: #0096FF;
+  background-color: #205EFF;
   color: white;
   padding: 15px 25px;
   text-decoration: none;
   border-radius: 5px;
 }
 
+.std-btn:hover {
+    background-color: #4D8BFF;
+  }
+
 .td-small {
     width:160px;
-    color: #89CFF0;
+    color: #205EFF;
 }
 
 .blue-text {
-    color: #89CFF0;
+    color: #205EFF;
 }
 
 .built-div-outer {
-    background-color: #003568;
+    background-color: #F7F8FA;
     width:100%;
     height: auto;
     margin-bottom: 20px;
@@ -135,7 +139,7 @@ li {
 .tech-list li {
   display: inline;
   margin-right: 12px;
-  color: #7A8B9C;
+  color: #205EFF;
 }
 
 
