@@ -29,9 +29,12 @@ h2 {
     font-size: 60px;
 }
 
+h3 {
+    font-size: 30px;
+}
+
 h4 {
     font-size: 100px;
-    color: #89CFF0;
 }
 
 h5 {
@@ -111,6 +114,10 @@ li {
   padding: 15px 25px;
   text-decoration: none;
   border-radius: 5px;
+}
+
+.std-btn:hover {
+    background-color: #008cff;
 }
 
 .td-small {
