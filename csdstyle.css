@@ -1,7 +1,7 @@
 * {
 
     margin:0; padding:0;   
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Inter', sans-serif;
     border-style: none;
     text-decoration: none;
     color: #FFFFFF;
@@ -35,8 +35,7 @@ h3 {
 }
 
 h4 {
-    font-size: 100px;
-    color: #89CFF0;
+    font-size: 40px;
 }
 
 h5 {
@@ -155,6 +154,10 @@ li {
   color: #7A8B9C;
 }
 
+.h4 {
+    font-size: 100px;
+    color: #89CFF0;
+}
 
 
 /* Custom, iPhone Retina */ 
@@ -172,7 +175,7 @@ li {
         font-size: 15px;
     }
 
-    h4 {
+    .h4 {
         font-size: 45px;
     }
 
@@ -226,7 +229,7 @@ li {
         font-size: 40px;
     }
 
-    h4 {
+    .h4 {
         font-size: 60px;
     }
 
@@ -257,7 +260,7 @@ li {
         font-size: 40px;
     }
 
-    h4 {
+    .h4 {
         font-size: 80px;
     }
 
@@ -291,7 +294,7 @@ li {
         font-size: 45px;
     }
 
-    h4 {
+    .h4 {
         font-size: 90px;
     }
 
@@ -325,7 +328,7 @@ li {
         font-size: 45px;
     }
 
-    h4 {
+    .h4 {
         font-size: 90px;
     }
 
