@@ -22,8 +22,8 @@ a {
 
 
 h1 {
-    font-size: 21px;
-    line-height: 27px;
+    font-size: 22px;
+    line-height: 30px;
 }
 
 h2 {
@@ -155,9 +155,13 @@ li {
 }
 
 .myname{
-    font-size: 100px;
+    font-size: 120px;
     color: #89CFF0;
     font-weight: bold;
+}
+
+.indent {
+    padding-left: 15em;
 }
 
 
