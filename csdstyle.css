@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    font-size: 60px;
+    font-size: 50px;
 }
 
 h3 {
@@ -35,7 +35,7 @@ h3 {
 }
 
 h4 {
-    font-size: 40px;
+    font-size: 22px;
 }
 
 h5 {
@@ -154,9 +154,10 @@ li {
   color: #7A8B9C;
 }
 
-.h4 {
+.myname{
     font-size: 100px;
     color: #89CFF0;
+    font-weight: bold;
 }
 
 
@@ -168,14 +169,14 @@ li {
     }
 
     h2 {
-        font-size: 25px;
+        font-size: 15px;
     }
 
     h3 {
         font-size: 15px;
     }
 
-    .h4 {
+    .myname {
         font-size: 45px;
     }
 
@@ -226,10 +227,10 @@ li {
     }
 
     h2 {
-        font-size: 40px;
+        font-size: 18px;
     }
 
-    .h4 {
+    .myname {
         font-size: 60px;
     }
 
@@ -256,11 +257,11 @@ li {
         font-size: 25px;
     }
 
-    h1 {
-        font-size: 40px;
+    h2 {
+        font-size: 18px;
     }
 
-    .h4 {
+    .myname {
         font-size: 80px;
     }
 
@@ -291,10 +292,10 @@ li {
     }
 
     h2 {
-        font-size: 45px;
+        font-size: 20px;
     }
 
-    .h4 {
+    .myname {
         font-size: 90px;
     }
 
@@ -328,7 +329,7 @@ li {
         font-size: 45px;
     }
 
-    .h4 {
+    .myname {
         font-size: 90px;
     }
 
