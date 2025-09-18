@@ -23,7 +23,7 @@ a {
 
 h1 {
     font-size: 22px;
-    line-height: 30px;
+    line-height: 32px;
 }
 
 h2 {
@@ -161,7 +161,7 @@ li {
 }
 
 .indent {
-    padding-left: 15em;
+    padding-left: 10px;
 }
 
 
